@@ -2,6 +2,8 @@
 
 Spring data Redis
 
+![Product Gif](https://github.com/mohamedanouarbencheikh/spring-redis/blob/master/spring-redis.gif)
+
 ## Description
 
 This is a complete project identify how to use redisDB with spring data.
